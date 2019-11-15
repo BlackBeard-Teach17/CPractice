@@ -1,0 +1,1 @@
+Write a program to print a block E using asterisk(*), where E has a height of seven characters and a width of five characters.
