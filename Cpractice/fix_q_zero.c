@@ -3,7 +3,9 @@
 /*
  * Why is the result of the program below 0.0? What must be done
  * to fix this program?
+ * Hint: Different datatypes, resulting in truncation of the results.
  */
+
 
 float answer; //Results of our calculation
 
